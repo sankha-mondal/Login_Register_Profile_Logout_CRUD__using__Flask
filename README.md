@@ -14,5 +14,6 @@
 <img width="1910" height="935" alt="image" src="https://github.com/user-attachments/assets/295f450a-b45d-4dc3-b58f-7964ddd554b1" />
 
 # User Update Page:
-<img width="1913" height="774" alt="image" src="https://github.com/user-attachments/assets/ef135084-0f99-4149-ac29-1488a0b7a93b" />
+<img width="1891" height="879" alt="image" src="https://github.com/user-attachments/assets/186d414e-99ee-4f91-8c26-ddac548763cd" />
+
 
